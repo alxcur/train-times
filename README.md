@@ -1,5 +1,5 @@
 # Firebase Assignment - Train Scheduler
-# Friday 25 January 2019
+### Friday 25 January 2019
 
 ### Overview
 

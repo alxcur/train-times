@@ -1,57 +1,66 @@
 body {
-    background-image opacity: 0.4;
-}
+    font-size: 14px;
 
-#train-table th,
-td {
-  display: inline-block;
-  width: 16.575%;
 }
-
 .container {
-	height: auto;
-	width: 100%;
+    height: auto;
+    font-family: Roboto Mono;
+    font-size: 13px;
+    width: 100%;
+
 }
-.jumbotron {
-	opacity: 0.9;
+h1 {
+    font-family: Roboto Mono;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    background-color: white;
+    font-size: 13px;
+    letter-spacing: 3px; 
+    color: black;
+    text-align: center;
 }
 
 .panel {
+    font-size: 12px;
 	opacity: 0.9;
 }
 .bg {
-    background-color: black;
-    color: #fff;
+    font-family: Work Sans;
+    font-size: 14px;
+    background-color: lightskyblue;
+    color: black;
     padding: 10px;
 }
 
 .bg-white {
     background-color:#fff;
+    font-size: 13px;
     color: black;
-    padding: 10px;
-}
-h1 {
-    color: black;
+    padding: 5px;
 }
 
-h3 {
-    color: black;
-    font-style: italic;
-}
-.h4 {
-    color: #fff;
-    font-weight: bolder;
-    padding: 5px;
-}
 .button {
-    background-color: black;
+    font-family: Work Sans;
+    font-size: 13px;
+    background-color: blue;
     color: #fff;
-    font-weight: bold;
-    padding: 5px;
 }
 
 #newTrainBtn {
-    background-color: black;
-    color: white;
-    border: none;
+    font-family: Work Sans;
+    font-size: 13px;
+    background-color: blue;
+    color: #fff;
+    
+}
+.h4 {
+    font-size: 14px;
+}
+.form-group h4 {
+    font-size: 14px;
+}
+#trainNameInput, #destInput, #firstTrainInput, #freqInput {
+    font-size: 14px;
+
 }
